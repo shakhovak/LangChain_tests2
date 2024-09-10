@@ -21,7 +21,7 @@
 │   utils.py - файл со вспомогательными функциями
 │   main.py - основной файл для генерации, csv --> csv
 |
-├───data - оформление веб-интерфейса
+├───data
 │       test_dialogs_dataset - test_dialogs_dataset.csv - исходный файл
 |       reworked.csv - файл с генерациями от языковой модели
 
